@@ -1,0 +1,12 @@
+https://www.superdatascience.com/machine-learning/
+
+
+command+i in spyder show help
+
+SVR : feature scaling embeded in algorithm. don't need to handle feature scaling
+## Regression 
+R squared :
+	SSres = sum(y - y^)^2
+	SStotal = sum(y - avg(y))^2
+	R^2 = 1 - SSres/SStotal
+
